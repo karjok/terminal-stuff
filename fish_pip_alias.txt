@@ -1,0 +1,7 @@
+function pip
+    if contains -- "install" $argv
+        command pip $argv --break-system-packages
+    else
+        command pip $argv
+    end
+end
