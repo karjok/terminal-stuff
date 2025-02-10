@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Burp Suite
+Comment=Web Security Testing Tool
+Exec=/opt/BurpSuite/BurpSuiteCommunity.sh
+Icon=/opt/BurpSuite/burp.png
+Terminal=false
+Type=Application
+Categories=Development;Security;Network;
+StartupNotify=true
